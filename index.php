@@ -1,6 +1,6 @@
 <?php
 // read the descriptions
-$API_KEY="AIzaSyAvUP5qcbb-q5ueaG-8vzZFtFYP9ftoj6c"; // Take your api key from Google and paste it here Note: don't forget to enable the use of youtube api from google
+$API_KEY=""; // Take your api key from Google and paste it here Note: don't forget to enable the use of youtube api from google
 $Channel_ID="UC_d_W1uBdIKo-zcAZVBpE7w"; //paste the youtube channel id here
 $Max_Results=10; // write down the maximum number of data to be taken
 
